@@ -1,3 +1,4 @@
-Copiar la carpeta "react-proyecto" en \xampp\htdocs
-Ejecutar npm install
-Ejecutar npm run dev
+-Copiar la carpeta "react-proyecto" en \xampp\htdocs
+-Ejecutar los módulos Apache y MySQL en XAMPP
+-Ejecutar npm install
+-Ejecutar npm run dev
